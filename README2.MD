@@ -1,0 +1,14 @@
+
+16,21,11,8,12,22 MERGE SORT PROJESİ
+16,21,11 /8,12,22
+16/21,11/8/12,22
+16/21/11/8/12/22
+16/11,21/8/12,22
+11,16,21/2,12,22
+2,11,12,16,21,22
+TEK KALANA KADAR İKİYE BÖL SIRALAYARAK BİRLEŞTİR.
+
+O(nlogn)
+
+[patika.dev](https//patika.dev/tr)
+
